@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\bin\Debug\Dynamic_Tables_Project.exe.config
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\bin\Debug\Dynamic_Tables_Project.exe
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\bin\Debug\Dynamic_Tables_Project.pdb
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.Form1.resources
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.exe
+C:\Users\Kübra\source\GitHub\Dynamic_Tables_Project\Dynamic_Tables_Project\Dynamic_Tables_Project\obj\Debug\Dynamic_Tables_Project.pdb
